@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  display: flex;
+  background-color: #282c34;
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  width: 1%;
+  margin: 0 auto;
+  
+}
+
+.image  {
+border: groove darkslategrey;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+
+}
+
+.ricky {
+  margin: 20px;
+  border: solid purple;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
